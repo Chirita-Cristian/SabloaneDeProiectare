@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author Marcau
+ * @author Chirita
  *
  */
 package SPlab;
